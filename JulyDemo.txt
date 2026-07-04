@@ -3,3 +3,12 @@ devops-projects (simple and professional)
 cloud-devops-lab (great if focusing on AWS)
 100-days-of-devops (ideal if documenting daily learning)
 devops-playground (good for experiments and practice)
+Learning Repository
+devops-learning
+devops-lab
+devops-playground
+devops-journey
+devops-notes
+learn-devops
+devops-handbook
+cloud-devops-lab
