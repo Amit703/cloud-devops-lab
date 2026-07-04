@@ -1,0 +1,5 @@
+devops-portfolio (best for recruiters)
+devops-projects (simple and professional)
+cloud-devops-lab (great if focusing on AWS)
+100-days-of-devops (ideal if documenting daily learning)
+devops-playground (good for experiments and practice)
